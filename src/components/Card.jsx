@@ -15,7 +15,7 @@ export const Card  = () => {
                 </span>  
             </div>
             <div className='tag w-full py-2 bg-green-400 flex items-center justify-center'>
-                <h3 className='text-sm font-semibold'>Download</h3>
+                <h3 className='text-sm font-semibold'>Download Now</h3>
             </div>
         </div>
     </div>
